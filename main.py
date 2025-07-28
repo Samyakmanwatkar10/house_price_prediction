@@ -9,4 +9,5 @@ from sklearn import metrics
 
 # importing the dataset
 house_price_dataset=pd.read_csv('housing.csv')
-print(house_price_dataset)
+# print(house_price_dataset)
+
